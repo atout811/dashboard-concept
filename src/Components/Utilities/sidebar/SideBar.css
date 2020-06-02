@@ -1,0 +1,11 @@
+.bar {
+  background: rgb(23, 23, 23);
+  background: radial-gradient(
+    circle,
+    rgba(23, 23, 23, 1) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+}
+span {
+  color: "balck";
+}
